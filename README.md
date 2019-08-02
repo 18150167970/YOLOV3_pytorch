@@ -25,3 +25,5 @@ python train.py --weights_path weights/darknet53.conv.74
 thanks to：
 
 https://github.com/DeNA/PyTorch_YOLOv3
+
+more detail please see the link above.
